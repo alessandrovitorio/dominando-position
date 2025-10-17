@@ -1,4 +1,4 @@
-````markdown
+
 # 🎯 CSS `position` - Dominando o Espaço!  
 
 O `position` no CSS define **como um elemento é posicionado na página**. Se você já tentou alinhar algo e nada ficava onde deveria, essa propriedade vai salvar sua vida! 🤯  
@@ -12,7 +12,7 @@ Se você não define um `position`, o CSS assume que ele é `static`. Isso signi
 .elemento {
   position: static;
 }
-````
+```
 
 ---
 
